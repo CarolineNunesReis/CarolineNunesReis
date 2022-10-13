@@ -17,12 +17,11 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  
-  <img align="right" alt="imagem" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.pt%2Fpin%2F494410865327619718%2F&psig=AOvVaw1qEh8uZAwZ29MWIkuE5HN2&ust=1665750852054000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCKie1JWf3foCFQAAAAAdAAAAABAT">
+ 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/111313121/195621478-a24f9751-dcfa-4a29-8ca1-65019c8a534c.png" width="200px" />
 </div>
   
-  ##
- 
 <div> 
   <a href="https://www.instagram.com/caroline_reis133/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carolinereis.sg292@academico.ifsul.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
