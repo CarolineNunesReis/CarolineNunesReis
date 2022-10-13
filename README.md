@@ -17,6 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  
   <img align="right" alt="imagem" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.pt%2Fpin%2F494410865327619718%2F&psig=AOvVaw1qEh8uZAwZ29MWIkuE5HN2&ust=1665750852054000&source=images&cd=vfe&ved=0CAoQjhxqFwoTCKie1JWf3foCFQAAAAAdAAAAABAT">
 </div>
   
