@@ -1,8 +1,9 @@
 ### Olá, sou a Caroline Reis! 👋
 
 - 🔭 Atualmente trabalho com suporte de Informática
-- 😄 Estudando programação de Front End
+- 😄 Estudando Front End
 - 💬 Entre em contato pelo: https://www.linkedin.com/in/caroline-nunes-reis-a63457252/
+- 😄 Tenho 18 anos
 
 <div align="center">
 <a href="https://www.linkedin.com/in/caroline-nunes-reis-a63457252/">
