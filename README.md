@@ -3,6 +3,7 @@
 - 🔭 Atualmente trabalho com suporte de Informática
 - 😄 Estudando Front End
 - 💬 Entre em contato pelo: https://www.linkedin.com/in/caroline-nunes-reis-a63457252/
+- 😄 Conhecimentos aprendidos em meu curso técnico: Redes de computadores, Manutenção de hardware, Servidores Linux e Windows, Analise de sistemas e Programação; Python, Java, Kotlin, PHP, HTML, CSS, JS, MYSQL.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/caroline-nunes-reis-a63457252/">
